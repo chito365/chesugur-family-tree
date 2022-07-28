@@ -1,8 +1,8 @@
 
-CHESUGUR + WIFE
+chesugur + wife
  c: CHEBOBER #older
  n: blah blah blah blah blah
-CHESUGUR
+chesugur
  n: http://simpsons.wikia.com/wiki/Portal:All_Simpson_Characters
  n: blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah
 Marge Simpson
